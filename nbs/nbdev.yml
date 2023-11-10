@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev"
+  site-url: "https://maxtsimon.github.io/nbdev"
+  description: "CSCI 435 demo"
+  repo-branch: main
+  repo-url: "https://github.com/maxtsimon/nbdev"
